@@ -1,8 +1,5 @@
 # main links links
 main:
-  
-  - title: "CV"
-    url: /cv/
     
   - title: "Research"
     url: /research/
@@ -12,15 +9,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Data and Code"
-    url: /data_code/
         
   - title: "Contact"
     url: /year-archive/
 
-  - title: "Side B"
-    url: /side_b/
   
 #   - title: "Research_2"
 #     url: /research_2/
