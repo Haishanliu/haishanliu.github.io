@@ -3,9 +3,7 @@ main:
     
   - title: "Research"
     url: /research/
-
-  - title: "Experience"
-    url: /talks/    
+        
 
   - title: "Teaching"
     url: /teaching/    
