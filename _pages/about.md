@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Da Gong"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
+Hello! I am Haishan Liu, a phd student at the at the University of California, Riverside in the <a href="https://www.ece.ucr.edu/" target="_blank" rel="noopener noreferrer"> Department of Electrical and Computer Engineeing</a> and the <a href="https://www.cert.ucr.edu/transportation-systems-vehicle-infrastructure-interaction" target="_blank" rel="noopener noreferrer"> Tranportation Research Group (TSR)</a>, co-advised by Dr.<a href="https://intra.ece.ucr.edu/~barth/" target="_blank" rel="noopener noreferrer"> Matthew Barth</a>. and Dr.<a href="https://scholar.google.com/citations?hl=en&user=0kqqv4UAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer"> Peng Hao</a>. My research interests include intelligent and sustainable transportation, shared mobility, planning and optimization of electrified vehicle fleets. Besides, during the participation in the <a href="https://www.ece.ucr.edu/" target="_blank" rel="noopener noreferrer">EcoCAR EV Chanllenge at UC Riverside</a>, I have strong interests in Autonomous driving and currently also work on sensor calibration, lidar 3D object detection and cooperative perception in the <a href="https://cisl.ucr.edu" target="_blank" rel="noopener noreferrer">CISL Lab</a>.
 
-I am a Ph.D. Candidate in Economics at University of California, Riverside.
+Before that, I recieved my M.S from <a href="https://en.tongji.edu.cn/p/#/" target="_blank" rel="noopener noreferrer">Tongji University</a> in 2021. Additionally, I have participaed exchange programs at <a href="https://www.hv.se/en/" target="_blank" rel="noopener noreferrer">University West, Sweden</a> and <a href="https://www.tu.berlin/en/" target="_blank" rel="noopener noreferrer">Technical University Berlin, Germany</a>. These experiences have been preciouse to me. 
 
-I have been serving as the Lead Consultant at <a href="https://gradquant.ucr.edu/" target="_blank" rel="noopener noreferrer">Graduate Quantitative Methods Center</a> (GradQuant, UCR) since January 2023.
-
-My research interests are Political Economy, Development Economics, Culture and Institution, Labor Economics and Applied Machine Learning.
-
-My CV can be found <a href="http://dadasmash.github.io/dagong.github.io/files/DaGong_Academic_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
